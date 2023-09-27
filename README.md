@@ -2,4 +2,4 @@
 
 Recipe application with custom uploads.
 
-<a href="">Click</a> here for live preview.
+Click <a href="">here</a> for live preview.
