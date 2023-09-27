@@ -10,7 +10,7 @@ Click <a href="https://forkiyfoodapplication.netlify.app/">here</a> for live pre
     <li>4 gb RAM</li>
     <li>10 gb hard disk</li>
     <li>Minimum resolution: 663 X 1025</li>
-    *Note :- Please enable desktop site option in mobile devices for better experince
+    *Note :- Please enable <super>desktop site</super> option in mobile devices for better experince
 </ul>
 
 
