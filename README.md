@@ -9,7 +9,7 @@ Click <a href="https://forkiyfoodapplication.netlify.app/#6512f6bc906a230014601e
     <li>PC: Duo core processor</li>
     <li>4 gb RAM</li>
     <li>10 gb hard disk</li>
-    <li>Minimum resilution: 663 X 1025</li>
+    <li>Minimum resolution: 663 X 1025</li>
     *Note :- Please enable desktop site option in mobile devices for better experince
 </ul>
 
