@@ -1,4 +1,4 @@
-# Forkify Food App
+# Forkify Food Application
 
 Recipe application with custom uploads.
 
