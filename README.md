@@ -13,5 +13,5 @@ Click <a href="https://forkiyfoodapplication.netlify.app/">here</a> for live pre
     *Note :- Please enable <super>desktop site</super> option in mobile devices for better experince
 </ul>
 
+![Screenshot 2023-09-27 162355](https://github.com/VeerSingh0001/Forkify/assets/115876530/ce6b6a28-06e9-4afc-a2d9-a64768aa23ce)
 
-![Screenshot 2023-09-27 162355](https://github.com/VeerSingh0001/Forkify/assets/115876530/56326d07-9406-479b-ac0e-dc5e95c8c2d7)
