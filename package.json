@@ -2,7 +2,6 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "Recipe application",
-  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
@@ -10,11 +9,10 @@
   "author": "Dalveer Singh",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.9.3",
+    "@parcel/transformer-sass": "^2.10.3",
     "@types/core-js": "^2.5.6",
-    "@types/node": "^20.7.0",
     "@types/regenerator-runtime": "^0.13.1",
-    "parcel": "^2.9.3"
+    "parcel": "^2.10.3"
   },
   "dependencies": {
     "core-js": "^3.32.2",
